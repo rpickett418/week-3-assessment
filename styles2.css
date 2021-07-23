@@ -1,0 +1,48 @@
+body {
+    background-color:#fefae0 ;
+    color:black;
+    font-family: 'Oxygen', sans-serif;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+}
+
+button {
+    background-color:#c29771 ;
+    color:black;
+    border-radius: 15px;
+    display:inline-block;
+    font-size:20px;
+}
+
+button:hover {
+    background-color: #606c38;
+    color:white;
+    font-size: 35px;
+}
+
+.crumb {
+    justify-content: space-between;
+    display:inline-block;
+    padding:23px;
+    margin: 15px;
+}
+
+section {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+section:hover {
+    text-decoration: wavy;
+    font-size: 25px;
+
+}

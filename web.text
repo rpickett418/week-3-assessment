@@ -1,0 +1,5 @@
+How does the internet work? What happens when you click on a link?
+
+The internet uses networks and servers to communitcate through either modems or routers, to the user. The users can type in domain names (IP addresses) that ignites networks and server that sends small packages of html,css,javascript.etc 
+
+When a link is click on a browser, the click sends a message to your server that navigates you to the designated link(s). 
